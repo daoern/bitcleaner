@@ -1,3 +1,5 @@
+#### Current Version: v1.0.2
+---
 #### [v1.0.2] 15/02/2020
 - Fix: Storage cleaner crashes
 - Fix: Re-launch app crashes
