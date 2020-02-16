@@ -1,5 +1,10 @@
+### Changelog
 #### Current Version: v1.0.2
 ---
+#### [v1.0.3] 16/02/2020
+- Fix: App Cleaner crash
+- Improved: Scanning UI
+
 #### [v1.0.2] 15/02/2020
 - Fix: Storage cleaner crashes
 - Fix: Re-launch app crashes
@@ -13,8 +18,8 @@
 - Improved: About page
 - Fixes: Various minor bug fixing
 
-### Initial Release
 #### [v1.0.0] 30/01/2020
+#### Initial Release
 - New: Storage Cleaner.
 - New: Duplicate Cleaner.
 - New: App Cleaner.
