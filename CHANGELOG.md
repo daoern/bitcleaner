@@ -1,5 +1,5 @@
 ### Changelog
-#### Current Version: v1.0.2
+#### Current Version: v1.0.3
 ---
 #### [v1.0.3] 16/02/2020
 - Fix: App Cleaner crash
