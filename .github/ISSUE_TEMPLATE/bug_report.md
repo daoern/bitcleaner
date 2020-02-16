@@ -17,6 +17,9 @@ A clear and concise description of what the bug is.
 4. See error
 
 **Device information:**
+ - Manufacturer: [Xiaomi]
+ - Model: [Mi 9]
  - OS Name and version: [e.g. Stock Android, OneUI, MIUI]
  - Android Version: [e.g. Pie, 7, Marshmallow, 10]
- - Version: [e.g. 1.0.0]
+ - BitCleaner Version: [e.g. 1.0.0]
+ - BitCleaner Build: [e.g. 1027]
