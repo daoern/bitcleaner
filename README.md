@@ -1,5 +1,5 @@
 # BitCleaner
-![BitClenaer Version](https://img.shields.io/badge/version-1.0.3-brightgreen)
+![BitClenaer Version](https://img.shields.io/badge/version-1.0.4-brightgreen)
 
 BitCleaner is an Android storage cleaner app.
 This repo is only used as a public documentation for BitCleaner.
