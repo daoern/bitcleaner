@@ -1,6 +1,12 @@
 ### Changelog
-#### Current Version: v1.0.5
+#### Current Version: v1.0.6
 ---
+#### [v1.0.6] 15/03/2020
+- Fix settings not updated in some cases
+- Improved Storage Cleaner
+- Definition is introduced
+- Reminder is introduced
+
 #### [v1.0.5] 04/03/2020
 - Fix crash when no storage is detected
 - Fix crash when storage access setup
