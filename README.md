@@ -1,5 +1,5 @@
 # BitCleaner
-![BitClenaer Version](https://img.shields.io/badge/version-1.0.6-brightgreen)
+![BitClenaer Version](https://img.shields.io/badge/version-1.0.9-brightgreen)
 [![Crowdin](https://badges.crowdin.net/bitcleaner/localized.svg)](https://crowdin.com/project/bitcleaner)
 
 BitCleaner is an Android storage cleaner app.
@@ -16,3 +16,7 @@ Help localize BitCleaner to your language with [Crowdin](https://crowdin.com/pro
 
 ### Report issues or request features
 You may report a bug or request features is through [issue tracker](https://github.com/lemonern/bitcleaner/issues/new).
+
+### Links
+- [Website](https://bitcleaner.lemonern.com)
+- [Reddit](https://www.reddit.com/r/BitCleaner/)
