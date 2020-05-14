@@ -1,6 +1,21 @@
 ### Changelog
-#### Current Version: v1.0.6
+#### Current Version: v1.0.9
 ---
+#### [v1.0.9] 11/05/2020
+- Stability improvements and crashes fixed
+
+#### [v1.0.8] 02/05/2020
+- Fix Tool not working properly when launched from Dashboard
+- Minor UI improvements
+
+#### [v1.0.7] 02/05/2020
+- Minimum API version bumped to API 21 (Lollipop)
+- Fix AppCleaner incorrect app usage issue
+- Performance improvement
+- Settings UI improvement
+- Dashboard UI tweaks
+- Animation improvement
+
 #### [v1.0.6] 15/03/2020
 - Fix settings not updated in some cases
 - Improved Storage Cleaner
