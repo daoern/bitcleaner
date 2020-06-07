@@ -1,6 +1,10 @@
 ### Changelog
 #### Current Version: v1.0.11 (10011)
 ---
+## v1.0.12 (10012) - 02/06/2020
+#### Icon
+- Fix app icon showing "release" badge
+
 ## [v1.0.11 (10011) - 02/06/2020](https://github.com/lemonern/bitcleaner/projects/4)
 #### Ad
 - No more ad! Ad implementation is completely removed!
