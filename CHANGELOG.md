@@ -1,7 +1,20 @@
 ### Changelog
-#### Current Version: v1.0.10 (release)
+#### Current Version: v1.0.11 (10011)
 ---
-## [[v1.0.10]](https://github.com/lemonern/bitcleaner/projects/2) 02/06/2020
+## [v1.0.11 (10011) - 02/06/2020](https://github.com/lemonern/bitcleaner/projects/4)
+#### Ad
+- No more ad! Ad implementation is completely removed!
+#### Bug fixes
+- Storage info card is no longer dismiss-able
+- FAB is showing when all items are deselected in ToolSession
+- Instance state is not handled properly in Dashboard and Settings Activity
+- Dashboard junk size is not updated when quick scan card is dismissed.
+- Firebase backend refactor
+#### UI/UX
+- Dark mode!! :new_moon_with_face:
+- New dashboard layout!
+
+## [v1.0.10 (10010) - 02/06/2020](https://github.com/lemonern/bitcleaner/projects/2)
 #### Main
 - Fix Android 10 storage acccess issue (SAF)
 - Improve instance state handling
